@@ -1,2 +1,2 @@
 # hemingway
-Text Analysis of Hemingway's In Our Time short story collection
+Text analysis of Hemingway's short story collection In Our Time 
